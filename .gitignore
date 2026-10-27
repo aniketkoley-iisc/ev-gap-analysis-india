@@ -218,3 +218,9 @@ __marimo__/
 
 # Streamlit
 .streamlit/secrets.toml
+
+# Big Data Raw Lakehouse Files (>100MB)
+data/lakehouse/bronze/
+data/lakehouse/silver/
+*.osm.pbf
+*.db
