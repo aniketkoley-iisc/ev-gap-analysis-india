@@ -224,3 +224,7 @@ data/lakehouse/bronze/
 data/lakehouse/silver/
 *.osm.pbf
 *.db
+
+data/lakehouse/
+data/
+
